@@ -6,6 +6,6 @@
 
 ![image](https://github.com/Gabsop/Adopt-Me/blob/main/img/AdoptMe-img1.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/47838241/77867562-268b6680-720e-11ea-806d-34a1285066cc.png)
+![image](https://github.com/Gabsop/Adopt-Me/blob/main/img/AdoptMe-img2.png?raw=true)
 
 ![image](https://user-images.githubusercontent.com/47838241/77867580-373bdc80-720e-11ea-80d5-d148d6d8dfae.png)
