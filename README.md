@@ -13,8 +13,8 @@
 ![image](https://github.com/Gabsop/Adopt-Me/blob/main/img/AdoptMe-img3.png?raw=true)
 
 # Technologies used 🖥
-- :rocket: Frontend: React.js
-- :rocket: Backend: Node.js
+- :rocket: Frontend: React, Parcel
+- :rocket: Backend: Node
 
 <blockquote alt="[ignore]">
   <p>
